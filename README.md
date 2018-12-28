@@ -1,6 +1,6 @@
-piwikla.github.io
 
-blog.piwik.la
+
+Piwik.la
 =================
 
-piwik.la Blog
+Piwik.la
